@@ -12,3 +12,6 @@ Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 - [Zion AI FinOps](https://ziontechgroup.com/zion-ai-finops/)
 - [Zion AI Call Analytics](https://ziontechgroup.com/zion-ai-call-analytics/)
 - [Zion AI Benchmark Lab](https://ziontechgroup.com/zion-ai-benchmark-lab/)
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
